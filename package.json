@@ -1,0 +1,19 @@
+{
+  "name": "random_user_csv_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladeirakelwin/random_user_csv_maker.git"
+  },
+  "author": "ladeirakelwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ladeirakelwin/random_user_csv_maker/issues"
+  },
+  "homepage": "https://github.com/ladeirakelwin/random_user_csv_maker#readme"
+}
